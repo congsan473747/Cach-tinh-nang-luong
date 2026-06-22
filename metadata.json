@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FitNutri - Chuyên gia Dinh dưỡng AI",
+  "description": "Ứng dụng tính toán, theo dõi dinh dưỡng, Calo, Kali, Protein, Chất béo toàn diện cùng Chuyên gia AI tư vấn thực đơn chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
